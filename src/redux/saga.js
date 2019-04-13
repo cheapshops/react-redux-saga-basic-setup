@@ -1,5 +1,5 @@
 import { takeLatest } from 'redux-saga/effects'
-import constants from '..constants'
+import constants from './constants'
 
 import { loginRequest } from './login/action'
 
